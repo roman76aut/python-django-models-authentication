@@ -1,61 +1,61 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuites>
-	<testsuite errors="0" failures="0" file="tests.py" name="tests.UsersTestCase-20200430192310" skipped="0" tests="10" time="0.014" timestamp="2020-04-30T19:23:10">
-		<testcase classname="tests.UsersTestCase" file="module2/tests.py" line="179" name="test_task10_make_migrations" time="0.006" timestamp="2020-04-30T19:23:10">
+	<testsuite errors="0" failures="0" file="tests.py" name="tests.PostTestCase-20200501170736" skipped="0" tests="10" time="0.015" timestamp="2020-05-01T17:07:36">
+		<testcase classname="tests.PostTestCase" file="module3/tests.py" line="235" name="test_task10_make_migrations" time="0.007" timestamp="2020-05-01T17:07:36">
 			<system-out>
 <![CDATA[]]>			</system-out>
 			<system-err>
 <![CDATA[]]>			</system-err>
 		</testcase>
-		<testcase classname="tests.UsersTestCase" file="module2/tests.py" line="7" name="test_task1_createapp" time="0.001" timestamp="2020-04-30T19:23:10">
+		<testcase classname="tests.PostTestCase" file="module3/tests.py" line="111" name="test_task1_post_model_exists" time="0.001" timestamp="2020-05-01T17:07:36">
 			<system-out>
 <![CDATA[]]>			</system-out>
 			<system-err>
 <![CDATA[]]>			</system-err>
 		</testcase>
-		<testcase classname="tests.UsersTestCase" file="module2/tests.py" line="15" name="test_task2_add_settings" time="0.000" timestamp="2020-04-30T19:23:10">
+		<testcase classname="tests.PostTestCase" file="module3/tests.py" line="120" name="test_task2_author_exists" time="0.001" timestamp="2020-05-01T17:07:36">
 			<system-out>
 <![CDATA[]]>			</system-out>
 			<system-err>
 <![CDATA[]]>			</system-err>
 		</testcase>
-		<testcase classname="tests.UsersTestCase" file="module2/tests.py" line="18" name="test_task3_add_template" time="0.000" timestamp="2020-04-30T19:23:10">
+		<testcase classname="tests.PostTestCase" file="module3/tests.py" line="133" name="test_task3_body_exists" time="0.000" timestamp="2020-05-01T17:07:36">
 			<system-out>
 <![CDATA[]]>			</system-out>
 			<system-err>
 <![CDATA[]]>			</system-err>
 		</testcase>
-		<testcase classname="tests.UsersTestCase" file="module2/tests.py" line="22" name="test_task4_create_model" time="0.001" timestamp="2020-04-30T19:23:10">
+		<testcase classname="tests.PostTestCase" file="module3/tests.py" line="139" name="test_task4_postdate_exists" time="0.000" timestamp="2020-05-01T17:07:36">
 			<system-out>
 <![CDATA[]]>			</system-out>
 			<system-err>
 <![CDATA[]]>			</system-err>
 		</testcase>
-		<testcase classname="tests.UsersTestCase" file="module2/tests.py" line="40" name="test_task5_register_admin" time="0.001" timestamp="2020-04-30T19:23:10">
+		<testcase classname="tests.PostTestCase" file="module3/tests.py" line="145" name="test_task5_str_exists" time="0.000" timestamp="2020-05-01T17:07:36">
 			<system-out>
 <![CDATA[]]>			</system-out>
 			<system-err>
 <![CDATA[]]>			</system-err>
 		</testcase>
-		<testcase classname="tests.UsersTestCase" file="module2/tests.py" line="73" name="test_task6_add_settings" time="0.000" timestamp="2020-04-30T19:23:10">
+		<testcase classname="tests.PostTestCase" file="module3/tests.py" line="148" name="test_task6_get_abs_url_exists" time="0.000" timestamp="2020-05-01T17:07:36">
 			<system-out>
 <![CDATA[]]>			</system-out>
 			<system-err>
 <![CDATA[]]>			</system-err>
 		</testcase>
-		<testcase classname="tests.UsersTestCase" file="module2/tests.py" line="78" name="test_task7_setup_urls" time="0.002" timestamp="2020-04-30T19:23:10">
+		<testcase classname="tests.PostTestCase" file="module3/tests.py" line="151" name="test_task7_register_model_in_admin" time="0.002" timestamp="2020-05-01T17:07:36">
 			<system-out>
 <![CDATA[]]>			</system-out>
 			<system-err>
 <![CDATA[]]>			</system-err>
 		</testcase>
-		<testcase classname="tests.UsersTestCase" file="module2/tests.py" line="143" name="test_task8_redirect_routes" time="0.002" timestamp="2020-04-30T19:23:10">
+		<testcase classname="tests.PostTestCase" file="module3/tests.py" line="173" name="test_task8_update_views_with_BlogPost" time="0.002" timestamp="2020-05-01T17:07:36">
 			<system-out>
 <![CDATA[]]>			</system-out>
 			<system-err>
 <![CDATA[]]>			</system-err>
 		</testcase>
-		<testcase classname="tests.UsersTestCase" file="module2/tests.py" line="169" name="test_task9_update_site_templates" time="0.001" timestamp="2020-04-30T19:23:10">
+		<testcase classname="tests.PostTestCase" file="module3/tests.py" line="208" name="test_task9_update_post_view_with_BlogPost" time="0.001" timestamp="2020-05-01T17:07:36">
 			<system-out>
 <![CDATA[]]>			</system-out>
 			<system-err>
