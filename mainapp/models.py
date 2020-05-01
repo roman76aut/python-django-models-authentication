@@ -19,7 +19,7 @@ class Tag(models.Model):
     name = models.CharField(max_length = 50, unique = True)
 
     def clean(self):
-        return self.name
+        self.name = self.name.lower()
 
     def __str__(self):
         return self.name
